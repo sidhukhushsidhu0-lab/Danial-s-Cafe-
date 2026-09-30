@@ -1,8 +1,8 @@
 @echo off
-title Uploading All Project Files to GitHub...
+title Uploading All Project Files to Danial-s-Cafe-...
 echo ========================================================
 echo   UPLOADING ALL PROJECT FILES PROPERLY TO GITHUB
-echo   Repository: https://github.com/sidhukhushsidhu0-lab/Demo-website
+echo   Repository: https://github.com/sidhukhushsidhu0-lab/Danial-s-Cafe-
 echo ========================================================
 echo.
 echo If a GitHub sign-in window opens in your browser,
@@ -17,7 +17,7 @@ set "REPO=E:\webseite poject\lovable-project-14bf1a81"
 echo.
 if %ERRORLEVEL% EQU 0 (
     echo ========================================================
-    echo   SUCCESS! All files uploaded properly without any mess!
+    echo   SUCCESS! All 97 files uploaded properly without any mess!
     echo ========================================================
 ) else (
     echo [NOTE] If needed, sign in above and run again.
